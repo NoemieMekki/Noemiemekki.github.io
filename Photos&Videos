@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mon premier site gratuit avec GitHub Pages">
+  <title>Mon Site Gratuit</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2em; background-color: #f9f9f9; }
+    h1 { color: #333; }
+    p { color: #555; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur mon site !</h1>
+  <p>Ce site est hébergé gratuitement avec GitHub Pages.</p>
+</body>
+</html>
